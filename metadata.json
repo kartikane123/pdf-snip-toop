@@ -1,0 +1,5 @@
+{
+  "name": "PDF Question Searcher",
+  "description": "Upload a PDF, read it, and use the built-in snip tool to instantly search questions on Google or Google Lens.",
+  "requestFramePermissions": []
+}
