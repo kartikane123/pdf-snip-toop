@@ -1,5 +1,5 @@
 {
   "name": "PDF Question Searcher",
-  "description": "Upload a PDF, read it, and use the built-in snip tool to instantly search questions on Google or Google Lens.",
+  "description": "High-performance PDF searcher optimized for JEE students. Handles large modules with lazy loading, dark mode, snip-to-text search, and history.",
   "requestFramePermissions": []
 }
